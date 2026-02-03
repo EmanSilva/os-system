@@ -111,4 +111,4 @@ Para acessar o Mongo Express, utilize:
 
 ### Desenvolvido por:
 **Emanuel Oliveira**
-[LinkedIn](https://www.linkedin.com/in/emanuel-oliveira-da-silva-386608123/) | [GitHub](https://github.com/EmanSilva)
+[LinkedIn](https://www.linkedin.com/in/emanuel-oliveira-da-silva-386608127) | [GitHub](https://github.com/EmanSilva)
