@@ -55,7 +55,7 @@ O projeto foi elaborado para seguir padrões de mercado que visam a organizaçã
 
 ### 1. Clonar o Repositório
 ```bash
-git clone https://github.com/seu-usuario/os-system-prototype.git
+git clone https://github.com/EmanSilva/os-system.git
 cd os-system-prototype
 ```
 
