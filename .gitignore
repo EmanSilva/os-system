@@ -1,0 +1,18 @@
+# IDEs e Editores
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Python (Backend)
+**/__pycache__/
+**/.venv/
+**/venv/
+**/*.pyc
+
+# Node/Vue (Frontend)
+**/node_modules/
+**/dist/
+**/.temp/
+**/.DS_Store
+**/.editorconfig
