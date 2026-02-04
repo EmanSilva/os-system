@@ -56,7 +56,7 @@ O projeto foi elaborado para seguir padrões de mercado que visam a organizaçã
 ### 1. Clonar o Repositório
 ```bash
 git clone https://github.com/EmanSilva/os-system.git
-cd os-system-prototype
+cd os-system
 ```
 
 ### 2. Configurar Variáveis de Ambiente
